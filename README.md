@@ -12,5 +12,5 @@ Im Dev On:
 - CCS 💻
 
 
-- 👤Discord: https://discord.gg./pdev
+- 👤Discord: https://discord.gg/pdev
 - 👤Discord User: ! Polsitoooᑉ³#8356
