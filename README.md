@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Polsito</h1>
 <h3 align="center">PolWare [Project]</h3>
 
-- 🔭 I’m currently working on [Pol Ware](https://discord.gg/polware)
+- 🔭 I’m currently working on [Pol Ware](https://discord.gg/pol)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
